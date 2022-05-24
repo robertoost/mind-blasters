@@ -6,6 +6,8 @@ name = "pypi"
 [packages]
 python-osc = "*"
 playsound = "*"
+matplotlib = "*"
+pyobjc = "*"
 
 [dev-packages]
 
